@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project presents a comprehensive financial statement analysis of Titan Company Limited using its published Annual Reports. The analysis evaluates the company's financial performance, profitability, liquidity, solvency, efficiency, and cash flow trends over multiple financial years.
+This project presents a comprehensive Standalone Financial Statement analysis of Titan Company Limited using its published Annual Reports. The analysis evaluates the company's financial performance, profitability, liquidity, solvency, efficiency, and cash flow trends over multiple financial years.
 
 ## Objectives
 
@@ -16,7 +16,6 @@ This project presents a comprehensive financial statement analysis of Titan Comp
 - Microsoft Excel
 - Financial Statement Analysis
 - Ratio Analysis
-- Common Size Analysis
 - Trend Analysis
 - Annual Report Data
 
